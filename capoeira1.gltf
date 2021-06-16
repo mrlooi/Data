@@ -1,0 +1,8108 @@
+{
+  "asset": {
+    "generator": "BabylonJS",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "byteLength": 3314904,
+      "uri": "YOLO.bin"
+    }
+  ],
+  "nodes": [
+    {
+      "name": "mixamorig:HeadTop_End",
+      "translation": [
+        -6.5082415012796e-9,
+        0.178151547908783,
+        0.0258498545736074
+      ]
+    },
+    {
+      "name": "mixamorig:LeftEye",
+      "translation": [
+        0.0306756068021059,
+        0.0640950724482536,
+        0.0928355380892754
+      ]
+    },
+    {
+      "name": "mixamorig:RightEye",
+      "translation": [
+        -0.0306755043566227,
+        0.0640949979424477,
+        0.09283547103405
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHandThumb4",
+      "translation": [
+        0.0195456687361002,
+        -0.0112850004807115,
+        0.0112849213182926
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHandIndex4",
+      "translation": [
+        0.0239271987229586,
+        3.70259073179113e-7,
+        3.35544342533467e-7
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHandMiddle4",
+      "translation": [
+        0.0283390246331692,
+        -3.8934820167924e-7,
+        -9.50422318624078e-8
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHandRing4",
+      "translation": [
+        0.0264745261520147,
+        -4.98044130381459e-7,
+        7.07051528436864e-10
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHandPinky4",
+      "translation": [
+        0.0197568256407976,
+        1.24056569461573e-7,
+        -4.4301404500402e-7
+      ]
+    },
+    {
+      "name": "mixamorig:RightHandPinky4",
+      "translation": [
+        -0.0197568256407976,
+        -1.85219576565032e-7,
+        -9.8398409420497e-9
+      ]
+    },
+    {
+      "name": "mixamorig:RightHandRing4",
+      "translation": [
+        -0.0264745261520147,
+        2.46082123567248e-7,
+        -2.29492336245585e-8
+      ]
+    },
+    {
+      "name": "mixamorig:RightHandMiddle4",
+      "translation": [
+        -0.0283390246331692,
+        8.05324091857074e-8,
+        5.37877042461332e-7
+      ]
+    },
+    {
+      "name": "mixamorig:RightHandIndex4",
+      "translation": [
+        -0.0239271987229586,
+        2.68147005044739e-7,
+        2.80201334135199e-7
+      ]
+    },
+    {
+      "name": "mixamorig:RightHandThumb4",
+      "translation": [
+        -0.0195458047091961,
+        -0.0112846167758107,
+        0.0112850703299046
+      ]
+    },
+    {
+      "name": "mixamorig:LeftToe_End",
+      "translation": [
+        -2.50806184709518e-8,
+        -0.00000676682975608855,
+        0.0927813574671745
+      ]
+    },
+    {
+      "name": "mixamorig:RightToe_End",
+      "translation": [
+        -2.09426449515604e-8,
+        -0.00000676369381835684,
+        0.092781201004982
+      ]
+    },
+    {
+      "name": "RootNode",
+      "children": [
+        16
+      ]
+    },
+    {
+      "name": "mixamorig:Hips",
+      "translation": [
+        -8.671660709994435e-21,
+        1.0399147272109985,
+        0.02076076529920101
+      ],
+      "children": [
+        17,
+        60,
+        64
+      ]
+    },
+    {
+      "name": "mixamorig:Spine",
+      "translation": [
+        9.234152287262987e-8,
+        0.10181581974029541,
+        0.0013152100145816803
+      ],
+      "children": [
+        18
+      ]
+    },
+    {
+      "name": "mixamorig:Spine1",
+      "translation": [
+        2.5193997998940176e-9,
+        0.10083448886871338,
+        -0.010008042678236961
+      ],
+      "children": [
+        19
+      ]
+    },
+    {
+      "name": "mixamorig:Spine2",
+      "translation": [
+        3.4574867413539323e-9,
+        0.09100019931793213,
+        -0.01373417116701603
+      ],
+      "children": [
+        20,
+        22,
+        41
+      ]
+    },
+    {
+      "name": "mixamorig:Neck",
+      "translation": [
+        6.33428953733528e-9,
+        0.1667165756225586,
+        -0.025161677971482277
+      ],
+      "children": [
+        21
+      ]
+    },
+    {
+      "name": "mixamorig:Head",
+      "translation": [
+        -4.2423238255651086e-9,
+        0.09617888927459717,
+        0.016850076615810394
+      ]
+    },
+    {
+      "name": "mixamorig:LeftShoulder",
+      "translation": [
+        0.04570446163415909,
+        0.1094597578048706,
+        -0.026279879733920097
+      ],
+      "children": [
+        23
+      ]
+    },
+    {
+      "name": "mixamorig:LeftArm",
+      "translation": [
+        0.10592369735240936,
+        -0.005245804786682129,
+        -0.022321201860904694
+      ],
+      "children": [
+        24
+      ]
+    },
+    {
+      "name": "mixamorig:LeftForeArm",
+      "translation": [
+        0.2784152328968048,
+        -9.5367431640625e-7,
+        3.7997961044311523e-7
+      ],
+      "children": [
+        25
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHand",
+      "translation": [
+        0.2832883298397064,
+        -1.1920928955078125e-7,
+        3.762543201446533e-7
+      ],
+      "children": [
+        26,
+        29,
+        32,
+        35,
+        38
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHandThumb1",
+      "translation": [
+        0.02466142177581787,
+        -0.015750527381896973,
+        0.026824133470654488
+      ],
+      "children": [
+        27
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHandThumb2",
+      "translation": [
+        0.03229802846908569,
+        -0.018646836280822754,
+        0.018646813929080963
+      ],
+      "children": [
+        28
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHandThumb3",
+      "translation": [
+        0.026525676250457764,
+        -0.015314936637878418,
+        0.015314716845750809
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHandIndex1",
+      "translation": [
+        0.09109306335449219,
+        -0.0051708221435546875,
+        0.022600730881094933
+      ],
+      "children": [
+        30
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHandIndex2",
+      "translation": [
+        0.03676408529281616,
+        0,
+        2.9243528842926025e-7
+      ],
+      "children": [
+        31
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHandIndex3",
+      "translation": [
+        0.028830647468566895,
+        2.384185791015625e-7,
+        -4.284083843231201e-7
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHandMiddle1",
+      "translation": [
+        0.095333993434906,
+        -2.384185791015625e-7,
+        1.3783574104309082e-7
+      ],
+      "children": [
+        33
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHandMiddle2",
+      "translation": [
+        0.03698235750198364,
+        0,
+        1.7881393432617188e-7
+      ],
+      "children": [
+        34
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHandMiddle3",
+      "translation": [
+        0.029509305953979492,
+        -4.76837158203125e-7,
+        1.6391277313232422e-7
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHandRing1",
+      "translation": [
+        0.0910453200340271,
+        -0.0004394054412841797,
+        -0.0186508446931839
+      ],
+      "children": [
+        36
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHandRing2",
+      "translation": [
+        0.03154021501541138,
+        0,
+        1.043081283569336e-7
+      ],
+      "children": [
+        37
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHandRing3",
+      "translation": [
+        0.029376745223999023,
+        -4.76837158203125e-7,
+        -7.450580596923828e-8
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHandPinky1",
+      "translation": [
+        0.08077782392501831,
+        -0.004886627197265625,
+        -0.03806067258119583
+      ],
+      "children": [
+        39
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHandPinky2",
+      "translation": [
+        0.03600025177001953,
+        -1.1920928955078125e-7,
+        -2.682209014892578e-7
+      ],
+      "children": [
+        40
+      ]
+    },
+    {
+      "name": "mixamorig:LeftHandPinky3",
+      "translation": [
+        0.021142125129699707,
+        2.384185791015625e-7,
+        -2.2351741790771484e-8
+      ]
+    },
+    {
+      "name": "mixamorig:RightShoulder",
+      "translation": [
+        -0.04569969326257706,
+        0.10946178436279297,
+        -0.026280174031853676
+      ],
+      "children": [
+        42
+      ]
+    },
+    {
+      "name": "mixamorig:RightArm",
+      "translation": [
+        -0.105928435921669,
+        -0.005248069763183594,
+        -0.022320985794067383
+      ],
+      "children": [
+        43
+      ]
+    },
+    {
+      "name": "mixamorig:RightForeArm",
+      "translation": [
+        -0.2784152030944824,
+        -3.5762786865234375e-7,
+        1.1920928955078125e-7
+      ],
+      "children": [
+        44
+      ]
+    },
+    {
+      "name": "mixamorig:RightHand",
+      "translation": [
+        -0.2832883596420288,
+        0,
+        5.550682544708252e-7
+      ],
+      "children": [
+        45,
+        48,
+        51,
+        54,
+        57
+      ]
+    },
+    {
+      "name": "mixamorig:RightHandPinky1",
+      "translation": [
+        -0.08076673746109009,
+        -0.004884481430053711,
+        -0.03806010261178017
+      ],
+      "children": [
+        46
+      ]
+    },
+    {
+      "name": "mixamorig:RightHandPinky2",
+      "translation": [
+        -0.03600037097930908,
+        2.384185791015625e-7,
+        5.066394805908203e-7
+      ],
+      "children": [
+        47
+      ]
+    },
+    {
+      "name": "mixamorig:RightHandPinky3",
+      "translation": [
+        -0.021142125129699707,
+        2.384185791015625e-7,
+        1.564621925354004e-7
+      ]
+    },
+    {
+      "name": "mixamorig:RightHandRing1",
+      "translation": [
+        -0.09103590250015259,
+        -0.0004391670227050781,
+        -0.01865072175860405
+      ],
+      "children": [
+        49
+      ]
+    },
+    {
+      "name": "mixamorig:RightHandRing2",
+      "translation": [
+        -0.03154021501541138,
+        3.5762786865234375e-7,
+        4.842877388000488e-7
+      ],
+      "children": [
+        50
+      ]
+    },
+    {
+      "name": "mixamorig:RightHandRing3",
+      "translation": [
+        -0.0293768048286438,
+        -4.76837158203125e-7,
+        -3.948807716369629e-7
+      ]
+    },
+    {
+      "name": "mixamorig:RightHandMiddle1",
+      "translation": [
+        -0.09532511234283447,
+        -1.1920928955078125e-7,
+        1.6763806343078613e-7
+      ],
+      "children": [
+        52
+      ]
+    },
+    {
+      "name": "mixamorig:RightHandMiddle2",
+      "translation": [
+        -0.03698229789733887,
+        1.1920928955078125e-7,
+        -2.2351741790771484e-7
+      ],
+      "children": [
+        53
+      ]
+    },
+    {
+      "name": "mixamorig:RightHandMiddle3",
+      "translation": [
+        -0.029509246349334717,
+        0,
+        -3.725290298461914e-9
+      ]
+    },
+    {
+      "name": "mixamorig:RightHandIndex1",
+      "translation": [
+        -0.0910828709602356,
+        -0.005167841911315918,
+        0.022601164877414703
+      ],
+      "children": [
+        55
+      ]
+    },
+    {
+      "name": "mixamorig:RightHandIndex2",
+      "translation": [
+        -0.03676402568817139,
+        1.1920928955078125e-7,
+        3.241002559661865e-7
+      ],
+      "children": [
+        56
+      ]
+    },
+    {
+      "name": "mixamorig:RightHandIndex3",
+      "translation": [
+        -0.028830647468566895,
+        -4.76837158203125e-7,
+        4.023313522338867e-7
+      ]
+    },
+    {
+      "name": "mixamorig:RightHandThumb1",
+      "translation": [
+        -0.024648070335388184,
+        -0.01572704315185547,
+        0.026826264336705208
+      ],
+      "children": [
+        58
+      ]
+    },
+    {
+      "name": "mixamorig:RightHandThumb2",
+      "translation": [
+        -0.032297730445861816,
+        -0.018647193908691406,
+        0.01864718459546566
+      ],
+      "children": [
+        59
+      ]
+    },
+    {
+      "name": "mixamorig:RightHandThumb3",
+      "translation": [
+        -0.026526033878326416,
+        -0.015314459800720215,
+        0.015314455144107342
+      ]
+    },
+    {
+      "name": "mixamorig:LeftUpLeg",
+      "translation": [
+        0.08207781612873077,
+        -0.0675172209739685,
+        -0.015995556488633156
+      ],
+      "children": [
+        61
+      ]
+    },
+    {
+      "name": "mixamorig:LeftLeg",
+      "translation": [
+        -7.450580596923828e-9,
+        -0.4437047243118286,
+        0.002846426796168089
+      ],
+      "children": [
+        62
+      ]
+    },
+    {
+      "name": "mixamorig:LeftFoot",
+      "translation": [
+        7.450580596923828e-9,
+        -0.44427868723869324,
+        -0.029821906238794327
+      ],
+      "children": [
+        63
+      ]
+    },
+    {
+      "name": "mixamorig:LeftToeBase",
+      "translation": [
+        -2.9802322387695312e-8,
+        -0.08728669583797455,
+        0.10710560530424118
+      ]
+    },
+    {
+      "name": "mixamorig:RightUpLeg",
+      "translation": [
+        -0.08207795768976212,
+        -0.06751668453216553,
+        -0.01599559374153614
+      ],
+      "children": [
+        65
+      ]
+    },
+    {
+      "name": "mixamorig:RightLeg",
+      "translation": [
+        0,
+        -0.44370537996292114,
+        0.0028615640476346016
+      ],
+      "children": [
+        66
+      ]
+    },
+    {
+      "name": "mixamorig:RightFoot",
+      "translation": [
+        7.450580596923828e-9,
+        -0.44427725672721863,
+        -0.029837891459465027
+      ],
+      "children": [
+        67
+      ]
+    },
+    {
+      "name": "mixamorig:RightToeBase",
+      "translation": [
+        -1.4901161193847656e-8,
+        -0.08728668838739395,
+        0.10710561275482178
+      ]
+    },
+    {
+      "name": "Beta_Joints",
+      "mesh": 0,
+      "skin": 0
+    },
+    {
+      "name": "Beta_Surface",
+      "mesh": 1,
+      "skin": 1
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "JOINTS_0": 2,
+            "WEIGHTS_0": 3
+          },
+          "indices": 4,
+          "material": 1
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "JOINTS_0": 7,
+            "WEIGHTS_0": 8
+          },
+          "indices": 9,
+          "material": 2
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        15
+      ]
+    }
+  ],
+  "scene": 0,
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 149676,
+      "name": "position - Beta_Joints",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 149676,
+      "byteOffset": 149676,
+      "name": "normal - Beta_Joints",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 99784,
+      "byteOffset": 299352,
+      "name": "uv - Beta_Joints",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 99784,
+      "byteOffset": 399136,
+      "name": "matricesIndices - Beta_Joints",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 199568,
+      "byteOffset": 498920,
+      "name": "matricesWeights - Beta_Joints",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 250080,
+      "byteOffset": 698488,
+      "name": "Indices - Beta_Joints"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 190812,
+      "byteOffset": 948568,
+      "name": "position - Beta_Surface",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 190812,
+      "byteOffset": 1139380,
+      "name": "normal - Beta_Surface",
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteLength": 127208,
+      "byteOffset": 1330192,
+      "name": "uv - Beta_Surface",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 127208,
+      "byteOffset": 1457400,
+      "name": "matricesIndices - Beta_Surface",
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteLength": 254416,
+      "byteOffset": 1584608,
+      "name": "matricesWeights - Beta_Surface",
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteLength": 339264,
+      "byteOffset": 1839024,
+      "name": "Indices - Beta_Surface"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2178288,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2179928,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2184848,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2186488,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2193048,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2194688,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2199608,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2201248,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2206168,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2207808,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2214368,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2216008,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2220928,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2222568,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2227488,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2229128,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2235688,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2237328,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2242248,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2243888,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2248808,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2250448,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2257008,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2258648,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2263568,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2265208,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2270128,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2271768,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2278328,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2279968,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2284888,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2286528,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2291448,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2293088,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2299648,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2301288,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2306208,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2307848,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2312768,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2314408,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2320968,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2322608,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2327528,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2329168,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2334088,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2335728,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2342288,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2343928,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2348848,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2350488,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2355408,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2357048,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2363608,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2365248,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2370168,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2371808,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2376728,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2378368,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2384928,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2386568,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2391488,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2393128,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2398048,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2399688,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2406248,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2407888,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2412808,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2414448,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2419368,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2421008,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2427568,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2429208,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2434128,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2435768,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2440688,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2442328,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2448888,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2450528,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2455448,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2457088,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2462008,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2463648,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2470208,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2471848,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2476768,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2478408,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2483328,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2484968,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2491528,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2493168,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2498088,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2499728,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2504648,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2506288,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2512848,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2514488,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2519408,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2521048,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2525968,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2527608,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2534168,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2535808,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2540728,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2542368,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2547288,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2548928,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2555488,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2557128,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2562048,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2563688,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2568608,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2570248,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2576808,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2578448,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2583368,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2585008,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2589928,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2591568,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2598128,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2599768,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2604688,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2606328,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2611248,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2612888,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2619448,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2621088,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2626008,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2627648,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2632568,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2634208,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2640768,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2642408,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2647328,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2648968,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2653888,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2655528,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2662088,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2663728,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2668648,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2670288,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2675208,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2676848,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2683408,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2685048,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2689968,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2691608,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2696528,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2698168,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2704728,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2706368,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2711288,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2712928,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2717848,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2719488,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2726048,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2727688,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2732608,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2734248,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2739168,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2740808,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2747368,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2749008,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2753928,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2755568,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2760488,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2762128,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2768688,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2770328,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2775248,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2776888,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2781808,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2783448,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2790008,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2791648,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2796568,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2798208,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2803128,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2804768,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2811328,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2812968,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2817888,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2819528,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2824448,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2826088,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2832648,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2834288,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2839208,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2840848,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2845768,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2847408,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2853968,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2855608,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2860528,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2862168,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2867088,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2868728,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2875288,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2876928,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2881848,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2883488,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2888408,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2890048,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2896608,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2898248,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2903168,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2904808,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2909728,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2911368,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2917928,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2919568,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2924488,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2926128,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2931048,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2932688,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2939248,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2940888,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2945808,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2947448,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2952368,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2954008,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2960568,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2962208,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2967128,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2968768,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2973688,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2975328,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2981888,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2983528,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2988448,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 2990088,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 2995008,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 2996648,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3003208,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3004848,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3009768,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3011408,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3016328,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 3017968,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3024528,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3026168,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3031088,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3032728,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3037648,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 3039288,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3045848,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3047488,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3052408,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3054048,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3058968,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 3060608,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3067168,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3068808,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3073728,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3075368,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3080288,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 3081928,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3088488,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3090128,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3095048,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3096688,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3101608,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 3103248,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3109808,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3111448,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3116368,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3118008,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3122928,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 3124568,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3131128,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3132768,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3137688,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3139328,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3144248,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 3145888,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3152448,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3154088,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3159008,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3160648,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3165568,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 3167208,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3173768,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3175408,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3180328,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3181968,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3186888,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 3188528,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3195088,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3196728,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3201648,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3203288,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3208208,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 3209848,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3216408,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3218048,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3222968,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3224608,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3229528,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 3231168,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3237728,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3239368,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3244288,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3245928,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3250848,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 3252488,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3259048,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3260688,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3265608,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3267248,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3272168,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 3273808,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3280368,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3282008,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3286928,
+      "name": "position  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3288568,
+      "name": "position  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3293488,
+      "name": "rotation  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6560,
+      "byteOffset": 3295128,
+      "name": "rotation  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1640,
+      "byteOffset": 3301688,
+      "name": "scaling  keyframe data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4920,
+      "byteOffset": 3303328,
+      "name": "scaling  data view"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3328,
+      "byteOffset": 3308248,
+      "name": "InverseBindMatrices - skeleton0",
+      "byteStride": 64
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3328,
+      "byteOffset": 3311576,
+      "name": "InverseBindMatrices - skeleton1",
+      "byteStride": 64
+    }
+  ],
+  "accessors": [
+    {
+      "name": "position - Beta_Joints",
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 12473,
+      "type": "VEC3",
+      "min": [
+        -0.8834668397903442,
+        -0.0032311563845723867,
+        -0.1246875450015068
+      ],
+      "max": [
+        0.8834669589996338,
+        1.5936082601547241,
+        0.13023684918880463
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Beta_Joints",
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 12473,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "matricesIndices - Beta_Joints",
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 12473,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "matricesWeights - Beta_Joints",
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 12473,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Beta_Joints",
+      "bufferView": 5,
+      "componentType": 5125,
+      "count": 62520,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position - Beta_Surface",
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 15901,
+      "type": "VEC3",
+      "min": [
+        -0.9025659561157227,
+        -0.003201932180672884,
+        -0.14373941719532013
+      ],
+      "max": [
+        0.9025660753250122,
+        1.806049108505249,
+        0.17695815861225128
+      ],
+      "byteOffset": 0
+    },
+    {
+      "name": "normal - Beta_Surface",
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 15901,
+      "type": "VEC3",
+      "byteOffset": 0
+    },
+    {
+      "name": "matricesIndices - Beta_Surface",
+      "bufferView": 9,
+      "componentType": 5123,
+      "count": 15901,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "matricesWeights - Beta_Surface",
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 15901,
+      "type": "VEC4",
+      "byteOffset": 0
+    },
+    {
+      "name": "indices - Beta_Surface",
+      "bufferView": 11,
+      "componentType": 5125,
+      "count": 84816,
+      "type": "SCALAR",
+      "byteOffset": 0
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 14,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 15,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 16,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 17,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 18,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 19,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 20,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 21,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 22,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 23,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 24,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 25,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 26,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 27,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 28,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 29,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 30,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 31,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 32,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 33,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 34,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 35,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 36,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 37,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 38,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 39,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 40,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 41,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 42,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 43,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 44,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 45,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 46,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 47,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 48,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 49,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 50,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 51,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 52,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 53,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 54,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 55,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 56,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 57,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 58,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 59,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 60,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 61,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 62,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 63,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 64,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 65,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 66,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 67,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 68,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 69,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 70,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 71,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 72,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 73,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 74,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 75,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 76,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 77,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 78,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 79,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 80,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 81,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 82,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 83,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 84,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 85,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 86,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 87,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 88,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 89,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 90,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 91,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 92,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 93,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 94,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 95,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 96,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 97,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 98,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 99,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 100,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 101,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 102,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 103,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 104,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 105,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 106,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 107,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 108,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 109,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 110,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 111,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 112,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 113,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 114,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 115,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 116,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 117,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 118,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 119,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 120,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 121,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 122,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 123,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 124,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 125,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 126,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 127,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 128,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 129,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 130,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 131,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 132,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 133,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 134,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 135,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 136,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 137,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 138,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 139,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 140,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 141,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 142,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 143,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 144,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 145,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 146,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 147,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 148,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 149,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 150,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 151,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 152,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 153,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 154,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 155,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 156,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 157,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 158,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 159,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 160,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 161,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 162,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 163,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 164,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 165,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 166,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 167,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 168,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 169,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 170,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 171,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 172,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 173,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 174,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 175,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 176,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 177,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 178,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 179,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 180,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 181,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 182,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 183,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 184,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 185,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 186,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 187,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 188,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 189,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 190,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 191,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 192,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 193,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 194,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 195,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 196,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 197,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 198,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 199,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 200,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 201,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 202,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 203,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 204,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 205,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 206,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 207,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 208,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 209,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 210,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 211,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 212,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 213,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 214,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 215,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 216,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 217,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 218,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 219,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 220,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 221,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 222,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 223,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 224,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 225,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 226,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 227,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 228,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 229,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 230,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 231,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 232,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 233,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 234,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 235,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 236,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 237,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 238,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 239,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 240,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 241,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 242,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 243,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 244,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 245,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 246,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 247,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 248,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 249,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 250,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 251,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 252,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 253,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 254,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 255,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 256,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 257,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 258,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 259,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 260,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 261,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 262,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 263,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 264,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 265,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 266,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 267,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 268,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 269,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 270,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 271,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 272,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 273,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 274,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 275,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 276,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 277,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 278,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 279,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 280,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 281,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 282,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 283,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 284,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 285,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 286,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 287,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 288,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 289,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 290,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 291,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 292,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 293,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 294,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 295,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 296,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 297,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 298,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 299,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 300,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 301,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 302,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 303,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 304,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 305,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 306,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 307,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 308,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 309,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 310,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 311,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 312,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 313,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 314,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 315,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 316,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 317,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 318,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 319,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 320,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 321,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 322,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 323,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "position  keyframes",
+      "bufferView": 324,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "position  data",
+      "bufferView": 325,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "rotation  keyframes",
+      "bufferView": 326,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "rotation  data",
+      "bufferView": 327,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC4"
+    },
+    {
+      "name": "scaling  keyframes",
+      "bufferView": 328,
+      "componentType": 5126,
+      "count": 410,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        2.7266666889190674
+      ]
+    },
+    {
+      "name": "scaling  data",
+      "bufferView": 329,
+      "componentType": 5126,
+      "count": 410,
+      "type": "VEC3"
+    },
+    {
+      "name": "InverseBindMatrices - skeleton0",
+      "bufferView": 330,
+      "componentType": 5126,
+      "count": 52,
+      "type": "MAT4"
+    },
+    {
+      "name": "InverseBindMatrices - skeleton1",
+      "bufferView": 331,
+      "componentType": 5126,
+      "count": 52,
+      "type": "MAT4"
+    }
+  ],
+  "animations": [
+    {
+      "name": "PixCap Animation",
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 15,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 15,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 2,
+          "target": {
+            "node": 15,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 3,
+          "target": {
+            "node": 16,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 4,
+          "target": {
+            "node": 16,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 5,
+          "target": {
+            "node": 16,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 6,
+          "target": {
+            "node": 17,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 7,
+          "target": {
+            "node": 17,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 8,
+          "target": {
+            "node": 17,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 9,
+          "target": {
+            "node": 18,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 10,
+          "target": {
+            "node": 18,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 11,
+          "target": {
+            "node": 18,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 12,
+          "target": {
+            "node": 19,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 13,
+          "target": {
+            "node": 19,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 14,
+          "target": {
+            "node": 19,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 15,
+          "target": {
+            "node": 20,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 16,
+          "target": {
+            "node": 20,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 17,
+          "target": {
+            "node": 20,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 18,
+          "target": {
+            "node": 21,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 19,
+          "target": {
+            "node": 21,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 20,
+          "target": {
+            "node": 21,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 21,
+          "target": {
+            "node": 22,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 22,
+          "target": {
+            "node": 22,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 23,
+          "target": {
+            "node": 22,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 24,
+          "target": {
+            "node": 23,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 25,
+          "target": {
+            "node": 23,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 26,
+          "target": {
+            "node": 23,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 27,
+          "target": {
+            "node": 24,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 28,
+          "target": {
+            "node": 24,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 29,
+          "target": {
+            "node": 24,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 30,
+          "target": {
+            "node": 25,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 31,
+          "target": {
+            "node": 25,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 32,
+          "target": {
+            "node": 25,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 33,
+          "target": {
+            "node": 26,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 34,
+          "target": {
+            "node": 26,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 35,
+          "target": {
+            "node": 26,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 36,
+          "target": {
+            "node": 27,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 37,
+          "target": {
+            "node": 27,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 38,
+          "target": {
+            "node": 27,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 39,
+          "target": {
+            "node": 28,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 40,
+          "target": {
+            "node": 28,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 41,
+          "target": {
+            "node": 28,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 42,
+          "target": {
+            "node": 29,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 43,
+          "target": {
+            "node": 29,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 44,
+          "target": {
+            "node": 29,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 45,
+          "target": {
+            "node": 30,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 46,
+          "target": {
+            "node": 30,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 47,
+          "target": {
+            "node": 30,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 48,
+          "target": {
+            "node": 31,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 49,
+          "target": {
+            "node": 31,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 50,
+          "target": {
+            "node": 31,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 51,
+          "target": {
+            "node": 32,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 52,
+          "target": {
+            "node": 32,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 53,
+          "target": {
+            "node": 32,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 54,
+          "target": {
+            "node": 33,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 55,
+          "target": {
+            "node": 33,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 56,
+          "target": {
+            "node": 33,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 57,
+          "target": {
+            "node": 34,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 58,
+          "target": {
+            "node": 34,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 59,
+          "target": {
+            "node": 34,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 60,
+          "target": {
+            "node": 35,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 61,
+          "target": {
+            "node": 35,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 62,
+          "target": {
+            "node": 35,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 63,
+          "target": {
+            "node": 36,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 64,
+          "target": {
+            "node": 36,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 65,
+          "target": {
+            "node": 36,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 66,
+          "target": {
+            "node": 37,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 67,
+          "target": {
+            "node": 37,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 68,
+          "target": {
+            "node": 37,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 69,
+          "target": {
+            "node": 38,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 70,
+          "target": {
+            "node": 38,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 71,
+          "target": {
+            "node": 38,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 72,
+          "target": {
+            "node": 39,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 73,
+          "target": {
+            "node": 39,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 74,
+          "target": {
+            "node": 39,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 75,
+          "target": {
+            "node": 40,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 76,
+          "target": {
+            "node": 40,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 77,
+          "target": {
+            "node": 40,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 78,
+          "target": {
+            "node": 41,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 79,
+          "target": {
+            "node": 41,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 80,
+          "target": {
+            "node": 41,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 81,
+          "target": {
+            "node": 42,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 82,
+          "target": {
+            "node": 42,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 83,
+          "target": {
+            "node": 42,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 84,
+          "target": {
+            "node": 43,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 85,
+          "target": {
+            "node": 43,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 86,
+          "target": {
+            "node": 43,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 87,
+          "target": {
+            "node": 44,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 88,
+          "target": {
+            "node": 44,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 89,
+          "target": {
+            "node": 44,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 90,
+          "target": {
+            "node": 45,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 91,
+          "target": {
+            "node": 45,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 92,
+          "target": {
+            "node": 45,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 93,
+          "target": {
+            "node": 46,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 94,
+          "target": {
+            "node": 46,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 95,
+          "target": {
+            "node": 46,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 96,
+          "target": {
+            "node": 47,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 97,
+          "target": {
+            "node": 47,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 98,
+          "target": {
+            "node": 47,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 99,
+          "target": {
+            "node": 48,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 100,
+          "target": {
+            "node": 48,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 101,
+          "target": {
+            "node": 48,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 102,
+          "target": {
+            "node": 49,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 103,
+          "target": {
+            "node": 49,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 104,
+          "target": {
+            "node": 49,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 105,
+          "target": {
+            "node": 50,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 106,
+          "target": {
+            "node": 50,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 107,
+          "target": {
+            "node": 50,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 108,
+          "target": {
+            "node": 51,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 109,
+          "target": {
+            "node": 51,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 110,
+          "target": {
+            "node": 51,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 111,
+          "target": {
+            "node": 52,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 112,
+          "target": {
+            "node": 52,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 113,
+          "target": {
+            "node": 52,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 114,
+          "target": {
+            "node": 53,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 115,
+          "target": {
+            "node": 53,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 116,
+          "target": {
+            "node": 53,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 117,
+          "target": {
+            "node": 54,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 118,
+          "target": {
+            "node": 54,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 119,
+          "target": {
+            "node": 54,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 120,
+          "target": {
+            "node": 55,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 121,
+          "target": {
+            "node": 55,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 122,
+          "target": {
+            "node": 55,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 123,
+          "target": {
+            "node": 56,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 124,
+          "target": {
+            "node": 56,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 125,
+          "target": {
+            "node": 56,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 126,
+          "target": {
+            "node": 57,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 127,
+          "target": {
+            "node": 57,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 128,
+          "target": {
+            "node": 57,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 129,
+          "target": {
+            "node": 58,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 130,
+          "target": {
+            "node": 58,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 131,
+          "target": {
+            "node": 58,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 132,
+          "target": {
+            "node": 59,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 133,
+          "target": {
+            "node": 59,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 134,
+          "target": {
+            "node": 59,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 135,
+          "target": {
+            "node": 60,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 136,
+          "target": {
+            "node": 60,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 137,
+          "target": {
+            "node": 60,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 138,
+          "target": {
+            "node": 61,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 139,
+          "target": {
+            "node": 61,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 140,
+          "target": {
+            "node": 61,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 141,
+          "target": {
+            "node": 62,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 142,
+          "target": {
+            "node": 62,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 143,
+          "target": {
+            "node": 62,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 144,
+          "target": {
+            "node": 63,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 145,
+          "target": {
+            "node": 63,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 146,
+          "target": {
+            "node": 63,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 147,
+          "target": {
+            "node": 64,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 148,
+          "target": {
+            "node": 64,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 149,
+          "target": {
+            "node": 64,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 150,
+          "target": {
+            "node": 65,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 151,
+          "target": {
+            "node": 65,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 152,
+          "target": {
+            "node": 65,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 153,
+          "target": {
+            "node": 66,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 154,
+          "target": {
+            "node": 66,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 155,
+          "target": {
+            "node": 66,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 156,
+          "target": {
+            "node": 67,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 157,
+          "target": {
+            "node": 67,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 158,
+          "target": {
+            "node": 67,
+            "path": "scale"
+          }
+        }
+      ],
+      "samplers": [
+        {
+          "interpolation": "LINEAR",
+          "input": 10,
+          "output": 11
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 12,
+          "output": 13
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 14,
+          "output": 15
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 16,
+          "output": 17
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 18,
+          "output": 19
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 20,
+          "output": 21
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 22,
+          "output": 23
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 24,
+          "output": 25
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 26,
+          "output": 27
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 28,
+          "output": 29
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 30,
+          "output": 31
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 32,
+          "output": 33
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 34,
+          "output": 35
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 36,
+          "output": 37
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 38,
+          "output": 39
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 40,
+          "output": 41
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 42,
+          "output": 43
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 44,
+          "output": 45
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 46,
+          "output": 47
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 48,
+          "output": 49
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 50,
+          "output": 51
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 52,
+          "output": 53
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 54,
+          "output": 55
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 56,
+          "output": 57
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 58,
+          "output": 59
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 60,
+          "output": 61
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 62,
+          "output": 63
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 64,
+          "output": 65
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 66,
+          "output": 67
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 68,
+          "output": 69
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 70,
+          "output": 71
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 72,
+          "output": 73
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 74,
+          "output": 75
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 76,
+          "output": 77
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 78,
+          "output": 79
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 80,
+          "output": 81
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 82,
+          "output": 83
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 84,
+          "output": 85
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 86,
+          "output": 87
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 88,
+          "output": 89
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 90,
+          "output": 91
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 92,
+          "output": 93
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 94,
+          "output": 95
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 96,
+          "output": 97
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 98,
+          "output": 99
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 100,
+          "output": 101
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 102,
+          "output": 103
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 104,
+          "output": 105
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 106,
+          "output": 107
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 108,
+          "output": 109
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 110,
+          "output": 111
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 112,
+          "output": 113
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 114,
+          "output": 115
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 116,
+          "output": 117
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 118,
+          "output": 119
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 120,
+          "output": 121
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 122,
+          "output": 123
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 124,
+          "output": 125
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 126,
+          "output": 127
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 128,
+          "output": 129
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 130,
+          "output": 131
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 132,
+          "output": 133
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 134,
+          "output": 135
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 136,
+          "output": 137
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 138,
+          "output": 139
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 140,
+          "output": 141
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 142,
+          "output": 143
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 144,
+          "output": 145
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 146,
+          "output": 147
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 148,
+          "output": 149
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 150,
+          "output": 151
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 152,
+          "output": 153
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 154,
+          "output": 155
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 156,
+          "output": 157
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 158,
+          "output": 159
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 160,
+          "output": 161
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 162,
+          "output": 163
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 164,
+          "output": 165
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 166,
+          "output": 167
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 168,
+          "output": 169
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 170,
+          "output": 171
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 172,
+          "output": 173
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 174,
+          "output": 175
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 176,
+          "output": 177
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 178,
+          "output": 179
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 180,
+          "output": 181
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 182,
+          "output": 183
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 184,
+          "output": 185
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 186,
+          "output": 187
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 188,
+          "output": 189
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 190,
+          "output": 191
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 192,
+          "output": 193
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 194,
+          "output": 195
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 196,
+          "output": 197
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 198,
+          "output": 199
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 200,
+          "output": 201
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 202,
+          "output": 203
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 204,
+          "output": 205
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 206,
+          "output": 207
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 208,
+          "output": 209
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 210,
+          "output": 211
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 212,
+          "output": 213
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 214,
+          "output": 215
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 216,
+          "output": 217
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 218,
+          "output": 219
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 220,
+          "output": 221
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 222,
+          "output": 223
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 224,
+          "output": 225
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 226,
+          "output": 227
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 228,
+          "output": 229
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 230,
+          "output": 231
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 232,
+          "output": 233
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 234,
+          "output": 235
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 236,
+          "output": 237
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 238,
+          "output": 239
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 240,
+          "output": 241
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 242,
+          "output": 243
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 244,
+          "output": 245
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 246,
+          "output": 247
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 248,
+          "output": 249
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 250,
+          "output": 251
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 252,
+          "output": 253
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 254,
+          "output": 255
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 256,
+          "output": 257
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 258,
+          "output": 259
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 260,
+          "output": 261
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 262,
+          "output": 263
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 264,
+          "output": 265
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 266,
+          "output": 267
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 268,
+          "output": 269
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 270,
+          "output": 271
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 272,
+          "output": 273
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 274,
+          "output": 275
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 276,
+          "output": 277
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 278,
+          "output": 279
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 280,
+          "output": 281
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 282,
+          "output": 283
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 284,
+          "output": 285
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 286,
+          "output": 287
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 288,
+          "output": 289
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 290,
+          "output": 291
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 292,
+          "output": 293
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 294,
+          "output": 295
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 296,
+          "output": 297
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 298,
+          "output": 299
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 300,
+          "output": 301
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 302,
+          "output": 303
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 304,
+          "output": 305
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 306,
+          "output": 307
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 308,
+          "output": 309
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 310,
+          "output": 311
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 312,
+          "output": 313
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 314,
+          "output": 315
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 316,
+          "output": 317
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 318,
+          "output": 319
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 320,
+          "output": 321
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 322,
+          "output": 323
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 324,
+          "output": 325
+        },
+        {
+          "interpolation": "LINEAR",
+          "input": 326,
+          "output": 327
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "default material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.3288090062081349
+      }
+    },
+    {
+      "name": "Beta_Joints_MAT",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.266666680574417,
+          0.0996231064200401,
+          0.0808117836713791,
+          1
+        ],
+        "metallicFactor": 0.400000005960464,
+        "roughnessFactor": 0.70710676908493
+      }
+    },
+    {
+      "name": "asdf1:Beta_HighLimbsGeoSG2",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.669600009918213,
+          0.241846427321434,
+          0.21092401444912,
+          1
+        ],
+        "metallicFactor": 0.400000005960464,
+        "roughnessFactor": 0.593640983104706
+      }
+    }
+  ],
+  "skins": [
+    {
+      "joints": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "inverseBindMatrices": 328
+    },
+    {
+      "joints": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        41,
+        60
+      ],
+      "inverseBindMatrices": 329
+    }
+  ]
+}
